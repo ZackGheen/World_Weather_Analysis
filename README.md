@@ -4,7 +4,7 @@
 
 ##Project Overview
 
-This project's purpose was to build the coding for a new app "PlanMyTrip". Script allows users to input their ideal temperature preferences for a vacation destination and receive back a list of locations matching their deisres. Additionally they would receive a travel itinereary and lodging recommendations if desired. The Google Maps API, OpenWeatherApp API, and JupyterNotebooks utilizing Python were the tools used to build the code script. 
+This project's purpose was to build the coding for a new app "PlanMyTrip". Script allows users to input their ideal temperature preferences for a vacation destination and receive back a list of locations matching their desires. Additionally they would receive a travel itinereary and lodging recommendations if desired. The Google Maps API, OpenWeatherApp API, and JupyterNotebooks utilizing Python were the tools used to build the code script. 
 
 We created the following analytical deliverables:
 
